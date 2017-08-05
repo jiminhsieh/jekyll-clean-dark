@@ -3,7 +3,7 @@ layout: post
 title: "OpenJDK vs. OracleJDK"
 date: 2017-08-03
 tags: jvm java scala
-description: OracleJDK or OpenJDK
+description: OracleJDK or OpenJDK?
 comments: true
 share: true
 ---
