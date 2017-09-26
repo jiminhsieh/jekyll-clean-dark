@@ -14,6 +14,9 @@ If you are using Linux as developing OS, this's not a big deal. You always get O
 
 ## Where is OpenJDK for Win and macOS?
 
+* Linux
+    * [Azul Zulu](https://www.azul.com/downloads/zulu/zulu-linux/)
+
 * macOS
     * [Azul Zulu](http://www.azul.com/downloads/zulu/zulu-mac/)
 
@@ -24,3 +27,5 @@ If you are using Linux as developing OS, this's not a big deal. You always get O
 ## In the end
 
 You could safely use OpenJDK from Azul System and RedHat which would be test before it release.
+
+[Here](http://openjdk.java.net/groups/conformance/JckAccess/jck-access.html) lists companies have TCK could verify each version of JDK.
