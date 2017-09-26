@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Reading list for writing good Java program"
-date: 2017-08-30
-tags: scala
+date: 2017-09-26
+tags: java
 description:
 comments: true
 share: true
