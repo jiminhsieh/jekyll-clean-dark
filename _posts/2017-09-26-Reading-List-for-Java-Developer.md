@@ -12,9 +12,9 @@ Although I do not finish all of books or materials, but those are I think worth 
 
 * Books 
     * [Effective Java, 2nd](https://www.amazon.com/Effective-Java-2nd-Joshua-Bloch/dp/0321356683/) by Joshua Bloch
-        * I think every companies should give it to their Java developers. Even in Java 8, I thought it still work for most of part. However, it would publish [3rd edition]() this year. You could wait for it. Although, I could not wait for it, I hope it could release as soon as possible.   
+        * I think every companies should give it to their Java developers. Even in Java 8, I thought it still work for most of part. However, it would be publish [3rd edition](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997) this year, you could wait for it. Although, I could not wait for it, I hope it could be release as soon as possible.   
     * [Java Generics and Collection](http://shop.oreilly.com/product/9780596527754.do)
-        * It explains different Collections in depth and teach you how to use those Collections. It also teaches you the Generics. To have good design in Java, it would be essential to familiar with Generic.
+        * It explains different Collections in depth and teach you how to use those Collections. It also teaches you the Generics. To have good designs in Java, it would be essential to familiar with Generic.
     * [Java Concurrency in Practice](https://www.amazon.com/gp/product/0321349601)
         * In modern software, we need to deal lots of concurrent situations, I thought this book would let you know how JVM handle threads in detailed.
     * Core Java Volume [I](https://www.amazon.com/Core-Java-I-Fundamentals-10th/dp/0134177304) & [II](https://www.amazon.com/Core-Java-II-Advanced-Features-10th/dp/0134177290)
