@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-Although I am not finish all of books. But those books or materials are I think worth to read. 
+Although I do not finish all of books or materials, but those are I think worth to read. I also suggest you should read any talks, books, or essays that are came from Joshua Bloch.
 
 * Books 
     * [Effective Java, 2nd](https://www.amazon.com/Effective-Java-2nd-Joshua-Bloch/dp/0321356683/) by Joshua Bloch
@@ -18,9 +18,10 @@ Although I am not finish all of books. But those books or materials are I think 
     * [Java Concurrency in Practice](https://www.amazon.com/gp/product/0321349601)
         * In modern software, we need to deal lots of concurrent situations, I thought this book would let you know how JVM handle threads in detailed.
     * Core Java Volume [I](https://www.amazon.com/Core-Java-I-Fundamentals-10th/dp/0134177304) & [II](https://www.amazon.com/Core-Java-II-Advanced-Features-10th/dp/0134177290)
-        * This is one of the best books I would recommend to newcomer even you have some experiences, because it walk thought every part of Java platform. For experienced Java developers, I thought it still worth to revisit.  
+        * Those are two of the best books I would recommend to newcomer even you have some experiences, because those walk thought every part of Java platform. For experienced Java developers, I thought it still worth to revisit. By the way, I highly recommend [Scala for the Impatient](http://www.horstmann.com/scala/index.html) which is written by the same author - Cay S. Horstmann.   
     * [Java 8 in Action](https://www.manning.com/books/java-8-in-action)
         * This is the best book I could think about. You would know how to work with new features in Java 8. For example, new date time api, CompletableFuture, lambda...etc. It's even teach you how to think functionally.
 * Talks
-    * [How to Design a Good API and Why it Matters](https://www.youtube.com/watch?v=heh4OeB9A-c)
-        * [slides](www.cs.bc.edu/~muller/teaching/cs102/s06/lib/pdf/api-design)   
+    * [How to Design a Good API and Why it Matters](https://www.youtube.com/watch?v=heh4OeB9A-c) by Joshua Bloch
+        * [slides](www.cs.bc.edu/~muller/teaching/cs102/s06/lib/pdf/api-design)
+    * [Effective Java - Still Effective After All These Years](https://www.youtube.com/watch?v=V1vQf4qyMXg) by Joshua Bloch
