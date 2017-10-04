@@ -36,7 +36,7 @@ yandex_metrica:
 disqus: jiminhsieh
 comments: true
 
-permalink: /:year/:month/:title
+permalink: /:year/:month/:day/:title
 # Enable for using pages, more details are here: http://jekyllrb.com/docs/pagination/
 gems: [jekyll-paginate]
 paginate: 10
