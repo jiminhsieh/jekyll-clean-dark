@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Great Hackers by Paul Graham"
+title: "Quotes from Great Hackers by Paul Graham"
 date: 2017-10-02
 tags: 
     - paul graham
