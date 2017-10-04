@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Be Careful of Working with JDBC"
+title: "Be Careful Of Working with JDBC"
 date: 2017-10-04
 tags: 
     - java

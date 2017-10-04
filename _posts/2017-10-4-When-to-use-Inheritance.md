@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When to use inheritance?"
+title: "When to Use Inheritance?"
 date: 2017-10-04
 tags:
     - oop

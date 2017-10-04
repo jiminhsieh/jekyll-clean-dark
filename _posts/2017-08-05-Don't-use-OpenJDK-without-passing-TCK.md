@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Don't use OpenJDK without passing TCK."
+title: "Don't Use OpenJDK Without Passing TCK."
 date: 2017-08-05
 tags: jvm java scala
 description: 

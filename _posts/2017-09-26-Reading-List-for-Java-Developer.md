@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reading list for writing good Java program"
+title: "Reading List For Writing Good Java Program"
 date: 2017-09-26
 tags: java
 description:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to use Jekyll Clean Dark?"
+title: "How To Use Jekyll Clean Dark?"
 date: 2017-08-04
 tags: jekyll
 description: Things I didn't figure out in the beginning.

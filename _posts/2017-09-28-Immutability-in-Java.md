@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Immutability in Java"
+title: "Immutability In Java"
 date: 2017-09-28
 tags: java
 comments: true
