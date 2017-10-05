@@ -5,7 +5,7 @@ date: 2017-10-04
 tags: 
     - java
     - scala
-description: Some of things you need to know JDBC 
+description: Some of things you need to know JDBC. 
 comments: true
 share: true
 ---
