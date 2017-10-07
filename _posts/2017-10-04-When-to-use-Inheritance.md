@@ -16,10 +16,10 @@ When to use inheritance? I thought it would be hard to have accurate answer. But
 What is inheritance? It means subclass has most of capabilities of superclass. In other way, it means there is a concept of **IS-A** in inheritance.
 
 * IS-A vs. HAS-A
-    * If we want to use inheritance, we have to make sure there is a relationship of **IS-A**. Or we should use composition which implies *HAS-A*.
+    * If we want to use inheritance, we have to make sure there is a relationship of **IS-A**. Or we should use composition which implies **HAS-A**.
 
-* Don't use inheritance for code reuse.
-    * When we want to reuse, we could consider **mixin**.
+* Don't use inheritance for reusing code.
+    * When we want to reuse code, we could consider **mixin**.
 
 * Favor composition over inheritance
     * This comes from Effective Java.
