@@ -14,7 +14,7 @@ I always like to know things about performance. In the beginning, I thought it's
 * You have to be good at design. [1]
 * Know how low-level things work.
 
-Suddenly, I realized the reasons are not only those. I found out when you work with performance engineering, you always have to see the data from benchmarks. The points are: 
+Suddenly, I realized the reasons are not only those. I found out when you work with performance engineering, you always have to conduct benchmark and gather the data from benchmarks. The points are: 
 
 * Data don't lie.
 * There is no ambiguity in data.
