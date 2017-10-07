@@ -6,6 +6,7 @@ tags:
     - culture
     - management
     - startup
+    - quotes
 description: 
 comments: true
 share: true

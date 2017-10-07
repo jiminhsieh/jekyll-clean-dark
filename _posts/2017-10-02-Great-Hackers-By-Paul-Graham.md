@@ -4,6 +4,7 @@ title: "Quotes from Great Hackers by Paul Graham"
 date: 2017-10-02
 tags: 
     - paul graham
+    - quotes
 description: 
 comments: true
 share: true

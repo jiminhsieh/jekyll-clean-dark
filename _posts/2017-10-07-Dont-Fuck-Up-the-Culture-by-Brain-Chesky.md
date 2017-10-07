@@ -5,6 +5,7 @@ date: 2017-10-07
 tags: 
     - culture
     - startup
+    - quotes
 description: 
 comments: true
 share: true
