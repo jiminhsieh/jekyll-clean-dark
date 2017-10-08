@@ -48,4 +48,7 @@ kramdown:
   input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
   hard_wrap: true
 
+# SEO
+gems: [jekyll-seo-tag]
+
 exclude: ['README.md', 'LICENSE']
