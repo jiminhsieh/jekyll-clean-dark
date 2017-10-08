@@ -50,5 +50,12 @@ kramdown:
 
 # SEO
 gems: [jekyll-seo-tag]
+author: Jimin Hsieh
+title: Jimin Hsieh's Blog
+social:
+  links:
+    - https://twitter.com/JiminHsieh
+    - https://github.com/jiminhsieh
+    - https://www.linkedin.com/in/jiminhsieh/
 
 exclude: ['README.md', 'LICENSE']
