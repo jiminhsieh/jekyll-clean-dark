@@ -46,7 +46,7 @@ There is original link of essay - [http://www.paulgraham.com/taste.html](http://
 
 ## Good design is redesign
 
-> They(experts) play for plans to change.
+> They (experts) play for plans to change.
 
 > Mistakes are natural. Instead of treating them as disasters, make them easy to acknowledge and easy to fix.
 

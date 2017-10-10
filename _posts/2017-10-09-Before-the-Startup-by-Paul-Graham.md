@@ -32,7 +32,7 @@ share: true
 
 > There are things that you can do in your early twenties that you cannot do as well before or after.
 
-> But success has taken a lot of the serendipity out of his(Mark Zuckerberg) life. Facebook is running him as much as he's running Facebook.
+> But success has taken a lot of the serendipity out of his (Mark Zuckerberg) life. Facebook is running him as much as he's running Facebook.
 
 > It's easy to tell how smart people are in ten minutes. Hit a few tennis balls over the net, and do they hit them back at you or into the net? **The hard part and the most important part was predicting how tough and ambitious they would become**.
 

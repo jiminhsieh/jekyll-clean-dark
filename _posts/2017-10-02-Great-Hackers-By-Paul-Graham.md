@@ -14,7 +14,7 @@ There is original link of essay - [http://www.paulgraham.com/gh.html](http://www
 
 > In programming, as in many fields, the hard part isn't solving problems, but deciding what problems to solve.
 
-> Great hackers think of it(programming) as something they do for fun, and which they're delighted to find people will pay them for.
+> Great hackers think of it (programming) as something they do for fun, and which they're delighted to find people will pay them for.
 
 > Good hackers find it unbearable to use bad tools. They'll simply refuse to work on projects with the wrong infrastructure.
 
