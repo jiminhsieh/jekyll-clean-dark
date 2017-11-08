@@ -23,5 +23,5 @@ Although I do not finish all of books or materials, but those are I think worth 
         * This is the best book I could think about. We would know how to work with new features in Java 8. For example, new date time api, CompletableFuture, lambda...etc. It's even teach we how to think functionally.
 * Talks
     * [How to Design a Good API and Why it Matters](https://www.youtube.com/watch?v=heh4OeB9A-c) by Joshua Bloch
-        * [slides](www.cs.bc.edu/~muller/teaching/cs102/s06/lib/pdf/api-design)
+        * [slides](http://www.cs.bc.edu/~muller/teaching/cs102/s06/lib/pdf/api-design)
     * [Effective Java - Still Effective After All These Years](https://www.youtube.com/watch?v=V1vQf4qyMXg) by Joshua Bloch
