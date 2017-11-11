@@ -30,7 +30,7 @@ From my experiences of local development, both of them have their advantage and 
     * cons
         * It's really slow.
 
-I heard people would ask is Docker good to use. I think the precise question is when to use Docker.
+I heard people would ask is Docker good to use. I think the precise question is when and how to use Docker.
 I will list some use cases and discuss those use cases.
 
 * Testing
