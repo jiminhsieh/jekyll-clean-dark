@@ -50,7 +50,7 @@ I will list some use cases and discuss those use cases.
             * No. Since Docker still uses Linux kernel directly. There are cases that escaping container.
             * Yes. But we have to do as much as possible to prevent breakout and monitor Docker. And running Docker on the VM not the bare machine. It could prevents the worst case scenario.
                 * How to prevent breakout? There are some tips from [Using Docker](http://shop.oreilly.com/product/0636920035671.do). I will mention some of them I think those are really important.
-                    * Set up User. Don't use root directly.
+                    * Set a user. Don't use root directly.
                     * Read-only filesystem.
                     * Be aware of some commands will rise the privileges.
 
