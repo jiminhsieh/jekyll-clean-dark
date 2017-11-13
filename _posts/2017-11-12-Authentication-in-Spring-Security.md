@@ -23,7 +23,7 @@ Here are 3 strategies:
 
 1. Global
 2. InheritableThreadLocal
-    * When we new InheritableThreadLocal in parent thread, all of his child threads will see the same value as parent thread.
+    * When we set value for InheritableThreadLocal in parent thread, all of his child threads will get the same value as parent thread in the initialization.
 3. ThreadLocal
     * Each thread will own his value.
 
