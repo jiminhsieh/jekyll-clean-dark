@@ -10,7 +10,7 @@ comments: true
 share: true
 ---
 
-There is original link of essay - [http://www.paulgraham.com/gh.html](http://www.paulgraham.com/gh.html).
+There is the original link of essay - [http://www.paulgraham.com/gh.html](http://www.paulgraham.com/gh.html).
 
 > In programming, as in many fields, the hard part isn't solving problems, but deciding what problems to solve.
 

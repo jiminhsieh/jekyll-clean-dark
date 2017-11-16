@@ -12,7 +12,7 @@ comments: true
 share: true
 ---
 
-There is original link of post - [https://a16z.com/2012/08/18/a-good-place-to-work/](https://a16z.com/2012/08/18/a-good-place-to-work/)
+There is the original link of post - [https://a16z.com/2012/08/18/a-good-place-to-work/](https://a16z.com/2012/08/18/a-good-place-to-work/)
 
 # Good organizations
 

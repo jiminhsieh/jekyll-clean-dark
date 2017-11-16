@@ -10,7 +10,7 @@ comments: true
 share: true
 ---
 
-There is original link of essay - [http://www.paulgraham.com/taste.html](http://www.paulgraham.com/taste.html).
+There is the original link of essay - [http://www.paulgraham.com/taste.html](http://www.paulgraham.com/taste.html).
 
 > If taste is just personal preference, then everyone's is already perfect.
 

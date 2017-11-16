@@ -10,7 +10,7 @@ comments: true
 share: true
 ---
 
-There is original link of essay - [http://www.paulgraham.com/mean.html](http://www.paulgraham.com/mean.html).
+There is the original link of essay - [http://www.paulgraham.com/mean.html](http://www.paulgraham.com/mean.html).
 
 > One is that being mean makes you stupid.
 

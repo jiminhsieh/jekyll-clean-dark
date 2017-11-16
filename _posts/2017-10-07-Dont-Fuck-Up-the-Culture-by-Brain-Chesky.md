@@ -11,7 +11,7 @@ comments: true
 share: true
 ---
 
-There is original link of post - [Don’t Fuck Up the Culture](https://medium.com/@bchesky/dont-fuck-up-the-culture-597cde9ee9d4).
+There is the original link of post - [Don’t Fuck Up the Culture](https://medium.com/@bchesky/dont-fuck-up-the-culture-597cde9ee9d4).
 
 This title was actually came from Peter Thiel's suggestion, when Brain Chesky asked for single most important piece of advice.
 

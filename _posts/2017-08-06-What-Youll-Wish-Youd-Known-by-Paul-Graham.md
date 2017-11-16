@@ -10,7 +10,7 @@ comments: true
 share: true
 ---
 
-There is original link of essay - [http://www.paulgraham.com/hs.html](http://www.paulgraham.com/hs.html).
+There is the original link of essay - [http://www.paulgraham.com/hs.html](http://www.paulgraham.com/hs.html).
 
 > What you want to do with your life.
 
