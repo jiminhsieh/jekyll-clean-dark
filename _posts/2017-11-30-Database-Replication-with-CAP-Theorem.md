@@ -11,7 +11,7 @@ comments: true
 share: true
 ---
 
-Precisely speaking, this post is about [Postgres-BDR](https://www.2ndquadrant.com/en/resources/bdr/) and CAP theorem. However, what I am talking about is not only could be applied to Postgres-BDR.  
+Precisely speaking, this post is about [Postgres-BDR](https://www.2ndquadrant.com/en/resources/bdr/) and CAP theorem. However, what I am talking about should not only be applied to Postgres-BDR.  
 
 # Intro
 I had needed to evaluate replication of PostgreSQL recently. One of the tools I had to evaluate is Postgres-BDR. Basically, Postgres-BDR is a Master-Master tool to replicate data cross different PostgreSQLs.
@@ -37,8 +37,8 @@ After I found this relationship between Postgres-BDR and CAP theorem. I experime
         > [a strongly consistent read might **take more time** than an eventually consistent read, it always returns the last updated value](http://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API_GetItem.html)
 
 * How could CAP exist at the same time?
-    * How you limit the behavior of accessing distributed storage system?
-    * How you resolve the conflict? 
+    * How does system limit the behavior of accessing distributed storage system?
+    * How do you resolve the conflict? 
 
 
 References: 
