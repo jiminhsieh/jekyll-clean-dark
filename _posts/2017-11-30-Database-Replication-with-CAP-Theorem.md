@@ -11,7 +11,7 @@ comments: true
 share: true
 ---
 # Intro
-I had needed to evaluate replication of PostgreSQL. One of the tools I had to evaluate is [Postgres-BDR](https://www.2ndquadrant.com/en/resources/bdr/). Basically, Postgres-BDR is a Master-Master tool to replicate data cross different PostgreSQLs.
+I had needed to evaluate replication of PostgreSQL recently. One of the tools I had to evaluate is [Postgres-BDR](https://www.2ndquadrant.com/en/resources/bdr/). Basically, Postgres-BDR is a Master-Master tool to replicate data cross different PostgreSQLs.
 
 What's the relationship of database replication and CAP theorem? 
 * After I read through [documents](http://bdr-project.org/docs/stable/bdr-concepts.html) of Postgres-BDR. I found this phrase:
@@ -20,7 +20,7 @@ What's the relationship of database replication and CAP theorem?
 That's one of properties of CAP theorem - consistency. 
 * CAP theorem is used to discuss any **networked shared-data systems**. Multi-node of RDBMS is just subset of that kind of system.
 
-After I found this relationship between Postgres-BDR and CAP theorem. I experimented with Postgres-BDR in a very limited resource to form my hypothesis which I could propose to my managers.
+After I found this relationship between Postgres-BDR and CAP theorem. I experimented with Postgres-BDR in a very limited resource to form my hypothesis.
 
 
 # Ｗhat did I learn from Postgres-BDR and CAP theorem?
