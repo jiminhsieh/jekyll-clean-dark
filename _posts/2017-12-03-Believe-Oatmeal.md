@@ -12,7 +12,7 @@ share: true
 
 There is the original link of comics - [http://theoatmeal.com/comics/believe](http://theoatmeal.com/comics/believe)
 
-There is my comment for this comic. "How can you not love this comic? It have an important reminder of human's deficit with the funny comic."
+There is my comment for this comic. "How can you not love this comic? It has an important reminder of human's deficit with the funny comic."
 
 > The same part of the brain that responds to a PHYSICAL threat responds to an INTELLECTUAL one. This area of the brain is known as the amygdala.
 
