@@ -4,7 +4,7 @@ title: "Quotes from Mean People Fail by Paul Graham"
 date: 2017-08-05
 tags: 
     - paul graham
-    - quotes
+    - notes
 description: 
 comments: true
 share: true

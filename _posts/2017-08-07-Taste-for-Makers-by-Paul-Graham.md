@@ -4,7 +4,7 @@ title: "Quotes from Taste For Makers by Paul Graham"
 date: 2017-08-07
 tags: 
     - paul graham
-    - quotes
+    - notes
 description: 
 comments: true
 share: true

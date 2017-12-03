@@ -4,7 +4,7 @@ title: "Quotes from What You'll Wish You'd Known by Paul Graham"
 date: 2017-08-06
 tags: 
     - paul graham
-    - quotes
+    - notes
 description: 
 comments: true
 share: true

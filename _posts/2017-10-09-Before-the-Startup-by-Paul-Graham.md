@@ -4,7 +4,7 @@ title: "Quotes from Before the Startup by Paul Graham"
 date: 2017-10-09
 tags: 
     - paul graham
-    - quotes
+    - notes
 description: 
 comments: true
 share: true

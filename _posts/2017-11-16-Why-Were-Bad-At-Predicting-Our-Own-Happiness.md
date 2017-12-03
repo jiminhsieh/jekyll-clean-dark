@@ -2,7 +2,9 @@
 layout: post
 title: "Reading of Why We're Bad At Predicting Our Own Happiness"
 date: 2017-11-12
-tags: people reading
+tags: 
+    - people
+    - notes 
 description:
 comments: true
 share: true
