@@ -40,6 +40,7 @@ permalink: /:year/:month/:day/:title
 # Enable for using pages, more details are here: http://jekyllrb.com/docs/pagination/
 gems: [jekyll-paginate]
 paginate: 8
+paginate_path: "/page/:num"
 
 #highlighter: rouge
 
