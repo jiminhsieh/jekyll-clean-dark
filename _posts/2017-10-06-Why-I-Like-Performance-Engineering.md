@@ -27,7 +27,7 @@ by [Konrad Malawski](https://twitter.com/ktosopl)
 However, is it that easy? There is a prerequisite for this. We have to benchmark or measure correctly. It means we have to use right methodologies to do it. For instance, when we benchmark CPU intensive application in Intel CPU, we have to turn off hyper-threading. Or we would get a wasteful result.
 
 Last but not least, anyone is interested in performance engineering. There are stuffs I would suggest to read. 
-* [Systems Performance: Enterprise and the Cloud](https://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098/) by Brendan Gregg
+* [Systems Performance: Enterprise and the Cloud](https://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098/) by Brendan Gregg, Netflix Senior Performance Architect
 * Some of RFC. For example, [rfc2544](https://www.ietf.org/rfc/rfc2544.txt)(Benchmarking Methodology for Network Interconnect Devices)
 
 Reference -
