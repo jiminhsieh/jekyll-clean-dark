@@ -34,16 +34,20 @@ After I found this relationship between Postgres-BDR and CAP theorem. I experime
         * That's one of the reasons why Postgres-BDR is really fast. (Another reason is Postgres-BDR replicates from WAL (Write-Ahead Logging).) 
     * In contrast, more consistency means more latency because of you have to replicate synchronously.
         * In DynamoDB, it supports *Eventually Consistent Reads* and *Strongly Consistent Reads*. AWS also mentions:
-        > [a strongly consistent read might **take more time** than an eventually consistent read, it always returns the last updated value](http://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API_GetItem.html)
+        > [a strongly consistent read might **take more time** than an eventually consistent read, it always returns the last updated value][4]
 
 * How could CAP exist at the same time?
     * How does system limit the behavior of accessing distributed storage system?
     * How do you resolve the conflict? 
 
-
 References: 
 
-1. [BDR overview](http://bdr-project.org/docs/stable/overview.html)
+1. [BDR overview][1]
     * The documentation of Postgres-BDR is really great and well written. I encourage anyone who is interested in database, replication, or NoSQL could read the link. 
-2. [CAP Twelve years later: How the "Rules" have Changed](https://www.researchgate.net/profile/Eric_Brewer3/publication/220476881_CAP_Twelve_years_later_How_the_Rules_have_Changed/links/56a644b108ae2c689d39e3ba/CAP-Twelve-years-later-How-the-Rules-have-Changed.pdf?origin=publication_detail) by Eric Brewer at ResearchGate
-3. [CAP and Architectual Consequences](https://www.youtube.com/watch?v=LW8MBYU_pzQ) by Martin Schoenert
+2. [CAP Twelve years later: How the "Rules" have Changed][2] by Eric Brewer at ResearchGate
+3. [CAP and Architectual Consequences][3] by Martin Schoenert
+
+    [1]: http://bdr-project.org/docs/stable/overview.html
+    [2]: https://www.researchgate.net/profile/Eric_Brewer3/publication/220476881_CAP_Twelve_years_later_How_the_Rules_have_Changed/links/56a644b108ae2c689d39e3ba/CAP-Twelve-years-later-How-the-Rules-have-Changed.pdf
+    [3]: https://www.youtube.com/watch?v=LW8MBYU_pzQ
+    [4]: https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API_GetItem.html
