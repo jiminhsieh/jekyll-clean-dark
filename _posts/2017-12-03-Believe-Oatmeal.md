@@ -18,6 +18,13 @@ There is my comment for this comic. "How can you not love this comic? It has an 
 
 > Just remember that your worldview isn't a perfect house that use built to last forever. It's a cheap condo, and over time most of it will turn to shit.
 
+It did remind me Marc Andreessen told "[*You have to be ruthlessly open-minded and constantly willing to reexamine your assumptions.*][1]"
+
 > The mind can't separate the emotional cortex from the logical one. And one could argue that this emotional underbelly is what makes us human. **But I would argue that it's also what makes us animals.**
 
 > I let the emotional cortex fight its little fight. And then I listen. And then I change.
+
+Reference:
+1. [Marc Andreessen on Change, Constraints, and Curiosity][1]
+
+    [1]: https://www.youtube.com/watch?v=P-T2VAcHRoE
