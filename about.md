@@ -10,7 +10,7 @@ Notes of my personal research, studying, and experiment. I hope this could help 
 
 ## About me
 
-A software engineer has some of experiences with Scala, Java, JVM, Linux, Database, Spark, Computer Network, Network Testing. Love to work with Scala, Linux, and Open Source.
+A software engineer has some of the experiences with Scala, Java, JVM, Linux, Database, Spark, Computer Network, Network Testing. Love to work with Scala, Linux, and Open Source. I am also trying to [contribute to open source](https://github.com/search?utf8=✓&q=author:jiminhsieh+is:merged&type=Issues), most of the contributions are related to Scala.
 
 ## Thanks
 
