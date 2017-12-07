@@ -8,11 +8,11 @@ comments: true
 share: true
 ---
 
-## Where is OpenJDK?
+# Where is OpenJDK?
 
-If you are using Linux as developing OS, this's not a big deal. You always get OpenJDK from repository. But ***what if you are using Win or macOS***, you won't get built in OpenJDK. If you are doing some search on the Internet, you may find out this unofficial [built](https://github.com/ojdkbuild/ojdkbuild) for each OS. However, looking carefully what README.md they wrote, they don't response any question about the [TCK](https://en.wikipedia.org/wiki/Technology_Compatibility_Kit) which is like JDK's unit testing. So no one would knows did they test their built. Do you want to use software that you don't know test or not? I don't have that courage to use it.
+If you are using Linux as developing OS, this's not a big deal. You always get OpenJDK from the package. But ***what if you are using Win or macOS***, you won't get built in OpenJDK. If you are doing some search on the Internet, you may find out this unofficial [built](https://github.com/ojdkbuild/ojdkbuild) for each OS. However, looking carefully what README.md they wrote, they don't respond any question about the [TCK](https://en.wikipedia.org/wiki/Technology_Compatibility_Kit) which is like JDK's unit testing. So no one would know did they test their built. Do you want to use software that you don't know test or not? I don't have that courage to use it.
 
-## Where is OpenJDK for Win and macOS?
+# Where is OpenJDK for Win and macOS?
 
 * Linux
     * [Azul Zulu](https://www.azul.com/downloads/zulu/zulu-linux/)
@@ -24,8 +24,8 @@ If you are using Linux as developing OS, this's not a big deal. You always get O
     * [RedHat](https://developers.redhat.com/products/openjdk)
     * [Azul Zulu](http://www.azul.com/downloads/zulu/zulu-windows/)
 
-## In the end
+# In the end
 
-You could safely use OpenJDK from Azul System and RedHat which would be test before it release.
+You could safely use OpenJDK from Azul System and RedHat which will be tested before it releases.
 
 [Here](http://openjdk.java.net/groups/conformance/JckAccess/jck-access.html) lists companies have TCK could verify each version of JDK.
