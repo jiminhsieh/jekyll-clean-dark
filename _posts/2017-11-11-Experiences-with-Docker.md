@@ -9,7 +9,7 @@ share: true
 ---
 # Intro
 
-I have known Docker for a long time. But in the early year, I used [Vagrant](https://www.vagrantup.com/) heavily and used Docker for fun. This year, I switched from Vagrant to Docker gradually. This is because of I have to use Docker a lot in my working environment. I'm more comfortable with Docker. :D
+I have known Docker for a long time. But in the early year, I used [Vagrant][2] heavily and used Docker for fun. This year, I switched from Vagrant to Docker gradually. This is because of I have to use Docker a lot in my working environment. I'm more comfortable with Docker. :D
 
 # Docker vs Vagrant
 From my experiences of local development, both of them have their advantage and disadvantage.
@@ -52,12 +52,13 @@ I will list some use cases and discuss those use cases.
     * Internet Facing - The answer is yes and no.
         * No. Since Docker still uses Linux kernel directly. There are cases that escaping container.
         * Yes. But we have to do as much as possible to prevent breakout and monitor Docker. And running Docker on the VM not the bare machine. It could prevents the worst case scenario.
-            * How to prevent breakout? There are some tips from [Using Docker](http://shop.oreilly.com/product/0636920035671.do). I will mention some of them I think those are really important.
+            * How to prevent breakout? There are some tips from [Using Docker][1]. I will mention some of them I think those are really important.
                 * Set a user. Don't use root directly.
                 * Read-only filesystem.
                 * Be aware of some commands will rise the privileges.
 
+Reference:
+1. [Using Docker][1]
 
-
-
-
+    [1]: http://shop.oreilly.com/product/0636920035671.do
+    [2]: https://www.vagrantup.com/
