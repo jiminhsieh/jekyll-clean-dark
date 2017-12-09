@@ -14,7 +14,7 @@ There is the original link of youtube - [https://www.youtube.com/watch?v=e8JMWtw
 
 This was a really interesting and fun talk. Although, I wrote down some of the important notes. There were still lots of his speechs are really meaningful, but it's too long to write down. I strongly suggest anyone should try to look at it.
 
-In this talk, Marc Brackett, the Founding Director of the [Yale Center for Emotional Intelligence](http://ei.yale.edu/), told about 5 important skills to train the Emotional Intelligence - RULER.
+In this talk, Marc Brackett, Ph.D. in Psychology and the Director of the [Yale Center for Emotional Intelligence](http://ei.yale.edu/), told about 5 important skills to train the Emotional Intelligence - RULER.
 
 ![img](http://ei.yale.edu/wp-content/uploads/2013/06/EI_DEFINITION_03-1024x512.jpg)
 
