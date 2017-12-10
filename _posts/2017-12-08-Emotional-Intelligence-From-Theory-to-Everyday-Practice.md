@@ -20,9 +20,9 @@ In this talk, Marc Brackett, Ph.D. in Psychology and the Director of the [Yale C
 
 There are some of notes I took:
 
-> From our perspective from an emotionally intelligent perspective, all emotions are valid and important, **it's what you do with them** (emotions).
+> From our perspective from an emotionally intelligent perspective, **all emotions are valid and important**, **it's what you do with them** (emotions).
 
-> That red (High Energy and Low Pleasantness) is useful if you're dysregulated and nasty not useful if you convert it to passion now you have a difference.
+> That red (High Energy and Low Pleasantness) is useful if you're dysregulated and nasty not useful **if you convert it (red) to passion now you have a difference**.
 
 There is the original quadrant:
 ![img](https://i.imgur.com/trAWNKY.jpg)
