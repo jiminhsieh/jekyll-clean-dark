@@ -38,7 +38,6 @@ I don't know why but this just remains me that Stewart Butterfield, founder of S
 
 > When you're creative and you're trying things that you're going to fail a lot you're going to have disappointment a lot. And unless you have those strategies (RULER) to manage those disappointments that creates potential just will not be unleashed.
 
-
-Last but not least, Marc Brackett also told about one quote from Aristotle I think it's really worth to write down.
+Marc Brackett also told about the idea behind RULER is one quote from Aristotle I think it's really worth to write down. Although, he also explain "*not an original quote, by the way, millennium ago this was said*".
  
 ![img](https://pbs.twimg.com/media/CIx4FVEWwAMk5o5.jpg)
