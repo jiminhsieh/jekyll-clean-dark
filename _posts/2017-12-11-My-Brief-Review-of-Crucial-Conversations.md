@@ -12,7 +12,7 @@ share: true
 
 This post is my brief review of [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/1469266822).
 
-However, I don't finish this book yet. But I think this book is really interesting and worth to be recommended.
+However, I don't finish this book yet. But I think this book is really interesting and worth to be recommended. That's why I write this brief review.
 
 We may question what is **crucial conversations**? There is the definition of crucial conversations from this book.
 
