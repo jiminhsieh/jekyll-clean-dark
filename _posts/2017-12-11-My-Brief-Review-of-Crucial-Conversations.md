@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Review of Crucial Conversations"
+title: "My Brief Review of Crucial Conversations"
 date: 2017-12-11
 tags: 
     - people
