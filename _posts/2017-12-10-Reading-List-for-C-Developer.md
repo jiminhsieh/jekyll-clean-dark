@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reading List for C Developer"
-date: 2017-12-11
+date: 2017-12-10
 tags: 
     - c
 description:
