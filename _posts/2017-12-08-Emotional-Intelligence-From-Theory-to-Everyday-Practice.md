@@ -24,7 +24,7 @@ There are some of notes I took:
 
 > That red (High Energy and Low Pleasantness) is useful if you're dysregulated and nasty not useful **if you convert it (red) to passion now you have a difference**.
 
-There is the original quadrant:
+There is the original quadrant of mood meter:
 ![img](https://i.imgur.com/trAWNKY.jpg)
 
 
