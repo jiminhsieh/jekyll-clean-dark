@@ -18,7 +18,7 @@ In this talk, Marc Brackett, Ph.D. in Psychology and the Director of the [Yale C
 
 ![img](http://ei.yale.edu/wp-content/uploads/2013/06/EI_DEFINITION_03-1024x512.jpg)
 
-There are some of notes I took:
+There are some of important notes I took:
 
 > From our perspective from an emotionally intelligent perspective, **all emotions are valid and important**, **it's what you do with them** (emotions).
 
